@@ -1,0 +1,11 @@
+html {
+    height: 100%;
+}
+body {
+    min-height: 100%;
+    background-size: cover;
+    border: 10px solid lime;
+
+    /* Proper way to load asset with Vite */
+    background-image: url('@/images/trinary-hero-empty.jpg');
+}

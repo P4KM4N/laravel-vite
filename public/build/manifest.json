@@ -1,0 +1,59 @@
+{
+  "resources/images/hero-trinary-icon.png": {
+    "file": "assets/hero-trinary-icon.886b40fe.png",
+    "src": "resources/images/hero-trinary-icon.png"
+  },
+  "resources/images/incompetent.gif": {
+    "file": "assets/incompetent.1e61ebf8.gif",
+    "src": "resources/images/incompetent.gif"
+  },
+  "resources/images/trinary-dark-theme.gif": {
+    "file": "assets/trinary-dark-theme.fab7cefa.gif",
+    "src": "resources/images/trinary-dark-theme.gif"
+  },
+  "resources/images/trinary-hero-empty.jpg": {
+    "file": "assets/trinary-hero-empty.b4adb49c.jpg",
+    "src": "resources/images/trinary-hero-empty.jpg"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app.573ec177.js",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "_vendor.321f534d.js"
+    ],
+    "dynamicImports": [
+      "resources/js/home.js"
+    ],
+    "css": [
+      "assets/app.d3741266.css",
+      "assets/main.b25d5de1.css"
+    ]
+  },
+  "resources/js/home.js": {
+    "file": "assets/home.95b41c2e.js",
+    "src": "resources/js/home.js",
+    "isEntry": true,
+    "assets": [
+      "assets/trinary-dark-theme.fab7cefa.gif"
+    ]
+  },
+  "resources/js/about.js": {
+    "file": "assets/about.587d8088.js",
+    "src": "resources/js/about.js",
+    "isEntry": true
+  },
+  "_vendor.321f534d.js": {
+    "file": "assets/vendor.321f534d.js"
+  },
+  "resources/css/main.css": {
+    "file": "assets/main.b25d5de1.css",
+    "src": "resources/css/main.css",
+    "isEntry": true
+  },
+  "resources/sass/app.scss": {
+    "file": "assets/app.d3741266.css",
+    "src": "resources/sass/app.scss",
+    "isEntry": true
+  }
+}
